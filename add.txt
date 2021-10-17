@@ -1,4 +1,5 @@
 add 
 edited 
 third
+local 
 remote
